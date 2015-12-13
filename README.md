@@ -5,12 +5,6 @@ class for use with Onion Omega
 
 ## Install
 
-Via Composer
-
-``` bash
-$ composer require ageeweb/php_onion
-```
-
 ## Usage
  
 how to use see HowToUse.php
